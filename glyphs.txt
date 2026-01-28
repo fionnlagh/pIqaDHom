@@ -1,0 +1,51 @@
+tlh_a F8D0
+tlh_b F8D1
+tlh_ch F8D2
+tlh_d F8D3
+tlh_e F8D4
+tlh_gh F8D5
+tlh_h F8D6
+tlh_i F8D7
+tlh_j F8D8
+tlh_l F8D9
+tlh_m F8DA
+tlh_n F8DB
+tlh_ng F8DC
+tlh_o F8DD
+tlh_p F8DE
+tlh_q F8DF
+tlh_q_upper F8E0
+tlh_r F8E1
+tlh_s F8E2
+tlh_t F8E3
+tlh_tlh F8E4
+tlh_u F8E5
+tlh_v F8E6
+tlh_w F8E7
+tlh_y F8E8
+tlh_glottal F8E9
+
+tlh_dash F8EA
+tlh_dollar F8EB
+tlh_percent F8EC
+tlh_plus F8ED
+tlh_minus F8EE
+tlh_equals F8EF
+
+tlh_0 F8F0
+tlh_1 F8F1
+tlh_2 F8F2
+tlh_3 F8F3
+tlh_4 F8F4
+tlh_5 F8F5
+tlh_6 F8F6
+tlh_7 F8F7
+tlh_8 F8F8
+tlh_9 F8F9
+
+tlh_underscore F8FA
+tlh_at F8FB
+
+tlh_comma F8FD
+tlh_period F8FE
+tlh_mummification F8FF
